@@ -1,13 +1,13 @@
 ## Hi there 👋<h1 align="center">Hi 👋, I'm Pranita Joshi</h1>
-<h3 align="center">Python Automation Enthusiast | Cloud Learner | AI Tools Explorer</h3>
+<h3 align="center">Python Automation Enthusiast | Data Handling using python libraries| AI Tools Explorer</h3>
 
 ---
 
 ## About Me:
 - 🔭 Currently working on building Python Automation Projects  
-- 🌱 Learning AWS Cloud, Python Scripting, and AI Tools  
+- 🌱 Learning Data Handling, Python Scripting, and AI Tools  
 - 👯 Looking to collaborate on Automation and Data Projects  
-- 💬 Ask me about Python, Automation, Cloud, and AI Tools  
+- 💬 Ask me about Python, Automation, Data Handling, and AI Tools  
 - 📫 How to reach me: pranita5220@gmail.com  
 - ⚡ Fun fact: Learning daily & growing consistently :)
 
@@ -15,7 +15,7 @@
 
 ## Tech Stack:
 - Python | Automation | APIs  
-- AWS Cloud Basics  
+- MS Office
 - SQL & Pandas  
 - Web Scraping  
 - Git & GitHub  
@@ -24,15 +24,14 @@
 ---
 
 ## My Projects:
-- 🔹 Auto Email Sender using Python  
-- 🔹 AWS EC2 Automation with boto3  
+- 🔹 Auto Email Sender using Python   
 - 🔹 ChatGPT Based Automation Tools  
 - 🔹 Data Cleaning & Analysis using Pandas  
 
 ---
 
 ## Connect with me:
-[LinkedIn](https://www.linkedin.com/in/pranita-joshi-242ba0252) | [GitHub](https://github.com/Pranita0102)
+[LinkedIn](https://www.linkedin.com/in/pranita-joshi-0084b1352) | [GitHub](https://github.com/Pranita0102)
 
 ---
 
